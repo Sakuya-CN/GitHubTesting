@@ -9,4 +9,5 @@ function addition()
  
 addition(); 
 echo $z; 
+return;
 ?>

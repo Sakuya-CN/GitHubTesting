@@ -11,3 +11,7 @@ Matrix:	Matrix badge	/matrix/:roomAlias?server_fqdn=matrix.org
 Stack Exchange monthly questions:	Stack Exchange monthly questions badge	/stackexchange/:stackexchangesite/qm/:query
 Stack Exchange reputation:	Stack Exchange reputation badge	/stackexchange/:stackexchangesite/r/:query
 Stack Exchange questions:	Stack Exchange questions badge	/stackexchange/:stackexchangesite/t/:query
+
+
+
+OMG
