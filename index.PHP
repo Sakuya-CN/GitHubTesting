@@ -4,10 +4,12 @@ $y = 25;
  
 function addition() 
 { 
-    $GLOBALS['z'] = $GLOBALS['x'] + $GLOBALS['y']; 
+    $GLOBALS['zz'] = $GLOBALS['x'] + $GLOBALS['y']; 
 }
  
 addition(); 
-echo $z; 
+//echo $z;
+echo $za;
+echo "测试成功";
 return;
 ?>
