@@ -1,0 +1,20 @@
+div
+{
+	width:100px;
+	height:100px;
+	background:red;
+	animation:myfirst 5s;
+	-webkit-animation:myfirst 5s; /* Safari and Chrome */
+}
+
+@keyframes myfirst
+{
+	from {background:red;}
+	to {background:yellow;}
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+	from {background:red;}
+	to {background:yellow;}
+}
